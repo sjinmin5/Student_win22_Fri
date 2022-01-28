@@ -17,6 +17,7 @@ package student;
 public class Student1 {
     private String studentId;
     private String studentName;
+    
 
     public Student1(String studentId, String studentName) {
         this.studentId = studentId;
