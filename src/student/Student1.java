@@ -3,6 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
+/*
+Author: Suhjin Min
+Date: Jan 28th 2022
+*/
 package student;
 
 /**
